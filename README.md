@@ -18,7 +18,7 @@
 <div align=center>
   <a href="#" title="vupn0712">
     <!-- <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vupn0712&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> -->
-    <img width="315" align="center" src="https://github-readme-stats-eight-blue-70.vercel.app/api/top-langs/?username=vupn0712&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats-eight-blue-70.vercel.app/api/top-langs/?username=vupn0712z&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     
   </a>
   <a href="#" title="vupn0712">
@@ -31,11 +31,11 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://vmenpn.com" target="blank">
+  <a href="https://vupn.me" target="blank">
     
   </a>
   <a href="https://facebook.com/vumenpn" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="vupn0712-facebook" />
   </a>
 
 
